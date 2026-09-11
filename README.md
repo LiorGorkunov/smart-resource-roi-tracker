@@ -1,2 +1,2 @@
 # smart-resource-roi-tracker
-An automated resource cםst and ROI calculation tool for project management optimization
+An automated resource cost and ROI calculation tool for project management optimization
